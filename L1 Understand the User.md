@@ -1,8 +1,11 @@
+---
+
+
+---
 
 <h2 id="lesson-1-understand-the-user">Lesson 1 Understand the User</h2>
-<p><strong>1. Customer</strong><br>
-  
-<strong>Customer segmentation practises</strong></p>
+<p><strong>1. Customer/Audience</strong></p>
+<p><strong>Customer segmentation practises</strong></p>
 <ul>
 <li>Behavioral
 <ul>
@@ -59,10 +62,10 @@
 <li>customer segment should within your reach</li>
 <li>let your segment circuluate your idea</li>
 </ul>
+<p><strong>2. Persona/Segment</strong></p>
 <p><strong>Build Persona</strong><br>
 Define the actual profile three to five personas</p>
-<p><strong>2. Market</strong><br>
-<strong>How to choose Market Segment</strong><br>
+<p><strong>How to choose Market Segment</strong><br>
 A target customer with a compelling reason to buy -Qualitative</p>
 <p><strong>Market Competition</strong></p>
 <ul>
@@ -71,8 +74,8 @@ A target customer with a compelling reason to buy -Qualitative</p>
 <li>Generic budget: fulfill customer needs with same price, but in different category</li>
 <li>Competition</li>
 </ul>
-<p><strong>3. Proposition</strong><br>
-<strong>Identify competitors and analyze the competitive advantages</strong> (Include this in your pitch plan)</p>
+<p><strong>3. Competitive analysis</strong></p>
+<p><strong>Identify competitors and analyze the competitive advantages</strong> (Include this in your pitch plan)</p>
 <p>Advantages can be based on the 5p’s of marketing:</p>
 <ul>
 <li>Product: have features other competitors don’t?</li>
@@ -81,8 +84,8 @@ A target customer with a compelling reason to buy -Qualitative</p>
 <li>Place: unique place?</li>
 <li>People: strengths of the team</li>
 </ul>
-<p><strong>Build Competitive analysis framework</strong><br>
-<strong>Value Proposition</strong></p>
+<p>Build Competitive analysis framework</p>
+<p><strong>4. Value Proposition</strong></p>
 <ul>
 <li>For: target customer/persona</li>
 <li>Who: what is their main problem/need?</li>
