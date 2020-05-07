@@ -1,10 +1,7 @@
----
-
-
----
 
 <h2 id="lesson-1-understand-the-user">Lesson 1 Understand the User</h2>
 <p><strong>1. Customer</strong><br>
+  
 <strong>Customer segmentation practises</strong></p>
 <ul>
 <li>Behavioral
