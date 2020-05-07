@@ -4,7 +4,8 @@
 ---
 
 <h2 id="lesson-1-understand-the-user">Lesson 1 Understand the User</h2>
-<p><strong>Customer segmentation practises</strong></p>
+<p><strong>1. Customer</strong><br>
+<strong>Customer segmentation practises</strong></p>
 <ul>
 <li>Behavioral
 <ul>
@@ -63,7 +64,8 @@
 </ul>
 <p><strong>Build Persona</strong><br>
 Define the actual profile three to five personas</p>
-<p><strong>How to choose Market Segment</strong><br>
+<p><strong>2. Market</strong><br>
+<strong>How to choose Market Segment</strong><br>
 A target customer with a compelling reason to buy -Qualitative</p>
 <p><strong>Market Competition</strong></p>
 <ul>
@@ -72,7 +74,8 @@ A target customer with a compelling reason to buy -Qualitative</p>
 <li>Generic budget: fulfill customer needs with same price, but in different category</li>
 <li>Competition</li>
 </ul>
-<p><strong>Identify competitors and analyze the competitive advantages</strong> (Include this in your pitch plan)</p>
+<p><strong>3. Proposition</strong><br>
+<strong>Identify competitors and analyze the competitive advantages</strong> (Include this in your pitch plan)</p>
 <p>Advantages can be based on the 5p’s of marketing:</p>
 <ul>
 <li>Product: have features other competitors don’t?</li>
